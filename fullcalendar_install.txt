@@ -1,0 +1,1 @@
+npm install --save  @fullcalendar/react @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list
